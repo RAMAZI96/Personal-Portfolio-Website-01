@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background: #080808;
+    color:white;
+}
+.img{
+    width: 400px;
+    height: 400px;
+    background-image: url(ramoo.JPG);
+    background-size: cover;
+    background-position: center;
+    margin-left: 800px;
+  
+    border-radius: 50%;
+}
+#header{
+    background-size: cover;
+    background-position: center;
+   
+}
+.logo{
+    font-size: 35px;
+}
+.logoo{
+    color: blueviolet;
+}
